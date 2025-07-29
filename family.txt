@@ -1,0 +1,4 @@
+{'id': 1, 'name': 'Arjun', 'work': 'IT'}
+{'id': 2, 'name': 'Krithi', 'work': 'Govt'}
+{'id': 3, 'name': 'Mom', 'work': 'SBI'}
+{'id': 4, 'name': 'Dad', 'work': 'Business'}

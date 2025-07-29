@@ -1,0 +1,3 @@
+{'id': 1, 'name': 'Arjun', 'department': 'Data Engineer'}
+{'id': 2, 'name': 'Gokul', 'department': 'Linux Administrator'}
+{'id': 3, 'name': 'Pritha', 'department': 'Logical DBA'}
