@@ -2,3 +2,5 @@
 {'EmployeeID': 2, 'EmployeeName': 'Gokul', 'Salary': 15000}
 {'EmployeeID': 3, 'EmployeeName': 'Arjun', 'Salary': 40000}
 {'EmployeeID': 4, 'EmployeeName': 'Gokul', 'Salary': 50000}
+{'EmployeeID': 5, 'EmployeeName': 'Arjun', 'Salary': 20000}
+{'EmployeeID': 6, 'EmployeeName': 'Gokul', 'Salary': 25000}

@@ -21,7 +21,7 @@ try:
         """
         cursor.execute(create_table_query)
 
-        insert_query = f"INSERT INTO {table_name}(EmployeeName, Salary) values (%s,%r)"
+        insert_query = f"INSERT INTO {table_name}(EmployeeName, Salary) values (%s,%s)"
         for i in range(data_limit):
             employee_name=input("Enter employee name: ").strip()
             employee_salary=int(input("Enter employee salary: "))

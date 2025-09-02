@@ -1,2 +1,0 @@
-{'EmployeeID': 1, 'EmployeeName': 'Arjun', 'Salary': 10000}
-{'EmployeeID': 2, 'EmployeeName': 'Gokul', 'Salary': 15000}
