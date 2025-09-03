@@ -40,6 +40,5 @@ try:
                 file1.write(f"{row}\n")
 
     print("Data inserted and retrieved successfully")
-except Exception as e:
-    print(f"EXC: {type(e).__name__}: {e}")
+finally:
     connection.close()
