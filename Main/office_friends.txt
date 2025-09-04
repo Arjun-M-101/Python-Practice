@@ -1,3 +1,2 @@
 {'id': 1, 'name': 'Arjun', 'work': 'Data Engineer'}
 {'id': 2, 'name': 'Gokul', 'work': 'Linux Administrator'}
-{'id': 3, 'name': 'Pritha', 'work': 'Logical DBA'}
